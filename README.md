@@ -2,12 +2,17 @@
 
 A simple Task Manager web app built with Python and Streamlit, supporting full CRUD (Create, Read, Update, Delete) functionality.
 
-<img width="914" height="761" alt="image" src="https://github.com/user-attachments/assets/0a1f3873-7e66-4aa1-9156-a5ee6f2accf9" />
-
 ## Features
 
 - **Add tasks** — enter a title and click "Add Task" or press "ENTER"
+- <img width="941" height="748" alt="image" src="https://github.com/user-attachments/assets/112dd634-6625-490e-8ee7-9853476ea3a6" />
+
+
 - **Mark complete** — click ✅ to toggle a task as done (shows as strikethrough)
+- <img width="973" height="112" alt="image" src="https://github.com/user-attachments/assets/0807fa6e-fe46-4918-b841-d94475e3f464" />
+
+
+
 - **Delete tasks** — click 🗑️ to remove a task
 - Tasks are saved locally to a JSON file, so they persist between runs
 
