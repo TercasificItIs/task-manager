@@ -12,7 +12,8 @@ A simple Task Manager web app built with Python and Streamlit, supporting full C
   <img width="881" height="146" alt="image" src="https://github.com/user-attachments/assets/98cc8732-6c7c-48d2-8d63-47a2912d5f7b" />
 
 - **Delete tasks** — click 🗑️ to remove a task
-  <img width="866" height="149" alt="image" src="https://github.com/user-attachments/assets/104a5de4-404f-485f-8c97-7f663eb75f25" />
+  <img width="866" height="149" alt="image" src="https://github.com/user-attachments/assets/81fc1d0d-4c44-4ac0-9920-1ba1a190b418" />
+
 
 - Tasks are saved locally to a JSON file, so they persist between runs
 
