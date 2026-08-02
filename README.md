@@ -22,7 +22,7 @@ A simple Task Manager web app built with Python and Streamlit, supporting full C
 - Python
 - [Streamlit](https://streamlit.io/) for the web UI
 
-## Installation & Usage
+## Installation & Usage(Recommended Source Code Editor: VS Code)
 
 1. Clone or download this repository.
 2. Install dependencies:
