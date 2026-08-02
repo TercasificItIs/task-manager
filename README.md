@@ -1,6 +1,7 @@
 # task-manager
 
 A simple Task Manager web app built with Python and Streamlit, supporting full CRUD (Create, Read, Update, Delete) functionality.
+<img width="900" height="864" alt="image" src="https://github.com/user-attachments/assets/e3118876-75d7-4a46-b3cf-6fdd0d3ba41d" />
 
 ## Features
 
